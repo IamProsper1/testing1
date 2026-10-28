@@ -3,9 +3,9 @@ import streamlit as st
 
 st.set_page_config(page_title="Sample Hackathon Project", layout="wide")
 
-st.title("Sample Crop Yield Dashboard")
+st.title("Crop Yield Dashboard")
 st.write(
-    "This is a simple demo project used to show how to submit to the NISR Big Data Hackathon. "
+    "A demo project to show how to submit to the NISR Big Data Hackathon. "
     "The data is synthetic (made up) and only for demonstration."
 )
 
